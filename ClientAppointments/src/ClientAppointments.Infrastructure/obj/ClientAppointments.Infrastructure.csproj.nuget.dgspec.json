@@ -1,0 +1,151 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\code\\ClientAppointments\\ClientAppointments\\src\\ClientAppointments.Infrastructure\\ClientAppointments.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "D:\\code\\ClientAppointments\\ClientAppointments\\src\\ClientAppointments.Core\\ClientAppointments.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\code\\ClientAppointments\\ClientAppointments\\src\\ClientAppointments.Core\\ClientAppointments.Core.csproj",
+        "projectName": "ClientAppointments.Core",
+        "projectPath": "D:\\code\\ClientAppointments\\ClientAppointments\\src\\ClientAppointments.Core\\ClientAppointments.Core.csproj",
+        "packagesPath": "C:\\Users\\B.J COMP\\.nuget\\packages\\",
+        "outputPath": "D:\\code\\ClientAppointments\\ClientAppointments\\src\\ClientAppointments.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\B.J COMP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net50"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {}
+        },
+        "frameworks": {
+          "net50": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\code\\ClientAppointments\\ClientAppointments\\src\\ClientAppointments.SharedKernel\\ClientAppointments.SharedKernel.csproj": {
+                "projectPath": "D:\\code\\ClientAppointments\\ClientAppointments\\src\\ClientAppointments.SharedKernel\\ClientAppointments.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net50": {
+          "targetAlias": "net5.0",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\code\\ClientAppointments\\ClientAppointments\\src\\ClientAppointments.Infrastructure\\ClientAppointments.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\code\\ClientAppointments\\ClientAppointments\\src\\ClientAppointments.Infrastructure\\ClientAppointments.Infrastructure.csproj",
+        "projectName": "ClientAppointments.Infrastructure",
+        "projectPath": "D:\\code\\ClientAppointments\\ClientAppointments\\src\\ClientAppointments.Infrastructure\\ClientAppointments.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\B.J COMP\\.nuget\\packages\\",
+        "outputPath": "D:\\code\\ClientAppointments\\ClientAppointments\\src\\ClientAppointments.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\B.J COMP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net50"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {}
+        },
+        "frameworks": {
+          "net50": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\code\\ClientAppointments\\ClientAppointments\\src\\ClientAppointments.Core\\ClientAppointments.Core.csproj": {
+                "projectPath": "D:\\code\\ClientAppointments\\ClientAppointments\\src\\ClientAppointments.Core\\ClientAppointments.Core.csproj"
+              },
+              "D:\\code\\ClientAppointments\\ClientAppointments\\src\\ClientAppointments.SharedKernel\\ClientAppointments.SharedKernel.csproj": {
+                "projectPath": "D:\\code\\ClientAppointments\\ClientAppointments\\src\\ClientAppointments.SharedKernel\\ClientAppointments.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net50": {
+          "targetAlias": "net5.0",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\code\\ClientAppointments\\ClientAppointments\\src\\ClientAppointments.SharedKernel\\ClientAppointments.SharedKernel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\code\\ClientAppointments\\ClientAppointments\\src\\ClientAppointments.SharedKernel\\ClientAppointments.SharedKernel.csproj",
+        "projectName": "ClientAppointments.SharedKernel",
+        "projectPath": "D:\\code\\ClientAppointments\\ClientAppointments\\src\\ClientAppointments.SharedKernel\\ClientAppointments.SharedKernel.csproj",
+        "packagesPath": "C:\\Users\\B.J COMP\\.nuget\\packages\\",
+        "outputPath": "D:\\code\\ClientAppointments\\ClientAppointments\\src\\ClientAppointments.SharedKernel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\B.J COMP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net50"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {}
+        },
+        "frameworks": {
+          "net50": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net50": {
+          "targetAlias": "net5.0",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

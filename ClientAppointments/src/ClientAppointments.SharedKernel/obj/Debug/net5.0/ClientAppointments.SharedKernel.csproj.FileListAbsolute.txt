@@ -1,0 +1,11 @@
+D:\code\ClientAppointments\ClientAppointments\src\ClientAppointments.SharedKernel\bin\Debug\net5.0\ClientAppointments.SharedKernel.deps.json
+D:\code\ClientAppointments\ClientAppointments\src\ClientAppointments.SharedKernel\bin\Debug\net5.0\ClientAppointments.SharedKernel.dll
+D:\code\ClientAppointments\ClientAppointments\src\ClientAppointments.SharedKernel\bin\Debug\net5.0\ref\ClientAppointments.SharedKernel.dll
+D:\code\ClientAppointments\ClientAppointments\src\ClientAppointments.SharedKernel\bin\Debug\net5.0\ClientAppointments.SharedKernel.pdb
+D:\code\ClientAppointments\ClientAppointments\src\ClientAppointments.SharedKernel\obj\Debug\net5.0\ClientAppointments.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\ClientAppointments\ClientAppointments\src\ClientAppointments.SharedKernel\obj\Debug\net5.0\ClientAppointments.SharedKernel.AssemblyInfoInputs.cache
+D:\code\ClientAppointments\ClientAppointments\src\ClientAppointments.SharedKernel\obj\Debug\net5.0\ClientAppointments.SharedKernel.AssemblyInfo.cs
+D:\code\ClientAppointments\ClientAppointments\src\ClientAppointments.SharedKernel\obj\Debug\net5.0\ClientAppointments.SharedKernel.csproj.CoreCompileInputs.cache
+D:\code\ClientAppointments\ClientAppointments\src\ClientAppointments.SharedKernel\obj\Debug\net5.0\ClientAppointments.SharedKernel.dll
+D:\code\ClientAppointments\ClientAppointments\src\ClientAppointments.SharedKernel\obj\Debug\net5.0\ref\ClientAppointments.SharedKernel.dll
+D:\code\ClientAppointments\ClientAppointments\src\ClientAppointments.SharedKernel\obj\Debug\net5.0\ClientAppointments.SharedKernel.pdb

@@ -1,0 +1,17 @@
+D:\code\ClientAppointments\ClientAppointments\src\ClientAppointments.Core\bin\Debug\net5.0\ClientAppointments.Core.deps.json
+D:\code\ClientAppointments\ClientAppointments\src\ClientAppointments.Core\bin\Debug\net5.0\ClientAppointments.Core.dll
+D:\code\ClientAppointments\ClientAppointments\src\ClientAppointments.Core\bin\Debug\net5.0\ref\ClientAppointments.Core.dll
+D:\code\ClientAppointments\ClientAppointments\src\ClientAppointments.Core\bin\Debug\net5.0\ClientAppointments.Core.pdb
+D:\code\ClientAppointments\ClientAppointments\src\ClientAppointments.Core\bin\Debug\net5.0\ClientAppointments.SharedKernel.dll
+D:\code\ClientAppointments\ClientAppointments\src\ClientAppointments.Core\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\code\ClientAppointments\ClientAppointments\src\ClientAppointments.Core\bin\Debug\net5.0\ClientAppointments.SharedKernel.pdb
+D:\code\ClientAppointments\ClientAppointments\src\ClientAppointments.Core\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.xml
+D:\code\ClientAppointments\ClientAppointments\src\ClientAppointments.Core\obj\Debug\net5.0\ClientAppointments.Core.csproj.AssemblyReference.cache
+D:\code\ClientAppointments\ClientAppointments\src\ClientAppointments.Core\obj\Debug\net5.0\ClientAppointments.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\ClientAppointments\ClientAppointments\src\ClientAppointments.Core\obj\Debug\net5.0\ClientAppointments.Core.AssemblyInfoInputs.cache
+D:\code\ClientAppointments\ClientAppointments\src\ClientAppointments.Core\obj\Debug\net5.0\ClientAppointments.Core.AssemblyInfo.cs
+D:\code\ClientAppointments\ClientAppointments\src\ClientAppointments.Core\obj\Debug\net5.0\ClientAppointments.Core.csproj.CoreCompileInputs.cache
+D:\code\ClientAppointments\ClientAppointments\src\ClientAppointments.Core\obj\Debug\net5.0\ClientAppointments.Core.csproj.CopyComplete
+D:\code\ClientAppointments\ClientAppointments\src\ClientAppointments.Core\obj\Debug\net5.0\ClientAppointments.Core.dll
+D:\code\ClientAppointments\ClientAppointments\src\ClientAppointments.Core\obj\Debug\net5.0\ref\ClientAppointments.Core.dll
+D:\code\ClientAppointments\ClientAppointments\src\ClientAppointments.Core\obj\Debug\net5.0\ClientAppointments.Core.pdb
